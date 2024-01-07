@@ -1,0 +1,14 @@
+<h2 id="" tabindex="0" class="headline row small-centered medium-11 large-8 columns text-center">		As Iran’s ‘axis’ activates, risk of a wider Mideast war
+		</h2>
+
+<h2 id="" tabindex="0" class="headline row small-centered medium-11 large-8 columns text-center">		As Iran’s ‘axis’ activates, risk of a wider Mideast war
+		</h2>
+
+#\31 169527 > div.row.block-wrapper > div > div > p
+
+/html/body/div[2]/section[2]/div[2]/div/div/p/text()
+
+sections = soup.select(f"section[id~={re.escape('\\d+')}]")  # 使用双反斜杠代替反斜杠 
+sections = soup.select(f"section[id~={re.escape('\\d+')}]")  # 使用原始字符串表示法代替反斜杠
+sections = soup.select(f"section[id~={re.escape('\\d+')}]")
+sections = soup.select(f"section[id~={re.escape('\\d+')}]")
